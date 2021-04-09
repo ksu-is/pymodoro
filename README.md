@@ -45,6 +45,8 @@ DND on
 Pomodoro finished
 DND off
 ```
+#### countdown notifications 
+The user will be able to configure the countdown notification settings to their preference. You can turn off the notifications as a whole or to occur every 1,5,10,15,20,25,30,45 and 60 minutes.
 
 #### Voice
 There will also be a voice reading out loud the start and the
